@@ -7,3 +7,5 @@ enableEmoji = true
 title = "kens tech blog"
 description = "kens blog"
 author = "Ken Quiggins"
+profilePicture = "images/linux1.png"
+mainSections = ["blog"]
