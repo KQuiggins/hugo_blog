@@ -1,3 +1,9 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+theme = "anatole"
+enableEmoji = true
+
+[params]
+title = "kens tech blog"
+description = "kens blog"
+author = "ken quiggins"
