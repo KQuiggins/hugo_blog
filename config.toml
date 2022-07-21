@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://kquiggins.github.io/hugo_blog/"
 languageCode = "en-us"
 theme = "anatole"
 enableEmoji = true

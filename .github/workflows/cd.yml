@@ -28,7 +28,7 @@ jobs:
         with:
           directory: "./public"
           arguments: --only-4xx --check-favicon --check-html --assume-extension
-          continue-on-error: true
+        continue-on-error: true
 
       - name: Deploy to Github Pages
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
