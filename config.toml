@@ -5,7 +5,27 @@ enableEmoji = true
 
 [params]
 title = "kens tech blog"
-description = "kens blog"
+description = "A simple blog of my coding journey"
 author = "Ken Quiggins"
 profilePicture = "images/linux1.png"
 mainSections = ["blog"]
+
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/kenneth-quiggins-225922212/"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Linkedin"
+url = "https://twitter.com/kash_quiggins"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Linkedin"
+url = "https://github.com/KQuiggins"
+
+
+
+  
