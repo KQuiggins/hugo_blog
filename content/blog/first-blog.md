@@ -4,7 +4,9 @@ date: 2022-07-21T17:25:46-04:00
 draft: false
 ---
 
-Hello World! :earth_americas:
+Welcome everyone to my blog!
+I hope you enjoy it.
+I will try to write in this as much as possible and share my journey with you.
 
 
 

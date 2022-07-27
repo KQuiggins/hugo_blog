@@ -1,18 +1,58 @@
 portfolioitems:
   # portfolio category
-  - title: Coding Projects
+  - title: Docker + Django Project
     # items within a category
     portfolioitem:
-      - name: Project 1
+      - name: BookStore
         image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        link: https://kens-bookstore77.herokuapp.com/
+        description: 'This Bookstore App was built using Django and Docker it has Postgresql for a database and is deployed on Heroku. It is a full-stack app that has Signup and Login functionality. It has Bootstrap for styling and has an Admin panel to add, delete and upload bookcovers and add user reviews.'
         tags:
-          - Tag 1
-          - Tag 2
-        status: 'Finished'
-        start: '2020'
-        end: '2021'
+          - Django
+          - Docker
+          - Heroku
+          - Postgresql
+          - Bootstrap
+        status: 'Active'
+        start: 'June 2022'
+        end: 'Present'
         authors:
-          - Author 1
-          - Author 2
+          - Ken Quiggins
+
+  - title: Flask Project
+    # items within a category
+    portfolioitem:
+      - name: Flask App
+        image: '/images/portfolio/code.jpg'
+        link: https://kens-flask-app.herokuapp.com/
+        description: 'I created this app as one of my first projects using Flask. It has Signup and Login functionality as well as profile image upload ability. Users can search for keywords in the search bar and see the results in a list users can edit and delete their own post but the admin can edit, delete any and all post.'
+        tags:
+          - Flask
+          - MySQL
+          - Heroku
+          - Python
+        status: 'Active'
+        start: 'May 2022'
+        end: 'Present'
+        authors:
+          - Ken Quiggins
+
+  - title: Coding Bootcamp
+    # items within a category
+    portfolioitem:
+      - name: Ken's Coding Bootcamp
+        image: '/images/portfolio/code.jpg'
+        link: https://kquiggins.github.io/Kens_Coding_BootCamp/
+        description: 'This website was created using Bootstrap, HTML, and CSS. I created the webpage to demostrate the use of basic bootstrap elements and also to show off my skills in HTML, CSS, and Bootstrap. I used the Bootstrap framework to create the website.'
+        tags:
+          - Bootstrap
+          - HTML
+          - CSS
+        status: 'Active'
+        start: 'June 5, 2022'
+        end: 'Present'
+        authors:
+          - Ken Quiggins
+
+    
+
