@@ -3,6 +3,7 @@ languageCode = "en-us"
 theme = "anatole"
 enableEmoji = true
 
+
 [params]
 title = "kens tech blog"
 description = "A simple blog of my coding journey"
@@ -84,6 +85,8 @@ weight = 520
 identifier = "certifications"
 url = "/certifications/"
 parent = "accomplishments"
+
+
 
 
 
