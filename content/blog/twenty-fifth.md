@@ -5,7 +5,7 @@ draft: false
 author: "Kenneth Quiggins"
 ---
 
-Today I learned about the JavaScript map() function. The map function is an important concept to learn if you want to master JavaScript. The map function works by mapping all elements in an array to a callback function an returns the results in an array. Here is an example of the map function:
+Today I learned about the JavaScript map() function. The map function is an important concept to learn if you want to master JavaScript. The map function works by mapping all elements in an array to a callback function and returns the results in an array. Here is an example of the map function:
 ```
     const numbers = [1, 2, 3, 4, 5];
     const doubled = numbers.map(x => x * 2);
