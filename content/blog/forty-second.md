@@ -56,5 +56,5 @@ Then your header would look like this:
 </li>
 
 ```
-You would do the same for the other routes. This makes your code cleaner and easier to read. Hope everyone can see the benefits of his style of code.
+You would do the same for the other routes. This makes your code cleaner and easier to read. By using the name property it allows you the freedom to change the path whenever you want, and keeps you from having to write out a long path name in several places. Hope everyone can see the benefits of naming routes.
 Happy Coding!!!
