@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Login required decorator"
 date: 2023-02-02T14:30:21-05:00
 draft: false
 author: "Kenneth Quiggins"
